@@ -49,8 +49,10 @@ I was lucky to have access to highly skilled and educated teachers, such as
 the bilogy teacher who helped to identify plant species. And the one Information
 Technology teacher who helped me to analyse the computer data.
 
-The link to the final pdf is:
+The link to the final pdf is: http://trex22.github.io/ResearchProjects/Geography%20Research%20Assignment%20FINAL%201.pdf
 
 
 Elevator Project
 ----------------
+
+TODO add more content here. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BOO!
