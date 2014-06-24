@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Oct 11 18:04:37 CAT 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=GeoInfo Access_FINAL.jar
+manifest.mergeall=true
+manifest.mainclass=myGeoInfo.MainJFrame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
